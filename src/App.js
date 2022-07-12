@@ -35,7 +35,7 @@ function App() {
 
   return (
     <>
-      <div className="container-fluid pt-5 vh-100 text-center text-light bg-secondary">
+      <div className="container-fluid pt-5 vh-100 text-center text-light ">
         <div className="">
           <h1 className="header-title fw-bold">
             Tic Tac Toe <span className="smaller">in React.js</span>

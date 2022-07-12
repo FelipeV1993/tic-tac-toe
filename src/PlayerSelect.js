@@ -12,7 +12,7 @@ const PlayerSelect = ({ startGame, setStartGame, handleChange, handleChange2, wh
   return (
     <div className="main-section">
       <p className="header-paragraph fw-bold">Pick a Weapon</p>
-      <div className="main-section-container bg-dark">
+      <div className="main-section-container box-color">
         <h3 className="weapon-title fw-bold">Choose Your Weapon</h3>
         <form action="" onSubmit={functionsCaller}>
           <div className="inputs-container mt-4">

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #5d5954;
 }
 
 code {
@@ -44,11 +45,14 @@ code {
   margin: 10px auto 0;
   padding: 30px 0 ;
 }
+.box-color{
+  background-color: #48433c;
+}
 .weapon {
   padding: 30px 45px;
   color: white;
   border: none;
-  background-color: #16191b;
+  background-color: #3e3833;
 }
 .weapon:not(:last-child) {
   margin-left: 11px;
